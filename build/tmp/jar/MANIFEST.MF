@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: scrambledloot
+Implementation-Version: 1.0
+Specification-Vendor: zombieturtle
+Specification-Title: scrambledloot
+Implementation-Timestamp: 2021-04-25T16:24:05-0400
+Specification-Version: 1
+Implementation-Vendor: zombieturtle
+

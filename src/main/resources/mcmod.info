@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scrambledloot",
+  "name": "Scrambled Loot",
+  "description": "Egg-based loot boxes? Hell yeah!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ZombieTurtle"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,64 @@
+                    Loot Box Ratios Per Chicken Egg Type:
+
+                    Tool Crate:
+                    =============================================
+                    |- Chicken                      : 50% :     :
+                    |- Stone [Tool]                 : 25% :     :
+                    |   |- Stone Pickaxe            :     : 25% :
+                    |   |- Stone Axe                :     : 25% :
+                    |   |- Stone Hoe                :     : 25% :
+                    |   |- Stone Shovel             :     : 25% :
+                    |- Iron [Tool]                  : 10% :     :
+                    |   |- Iron Pickaxe             :     : 25% :
+                    |   |- Iron Axe                 :     : 25% :
+                    |   |- Iron Hoe                 :     : 25% :
+                    |   |- Iron Shovel              :     : 25% :
+                    |- Gold [Tool]                  : 8% :     :
+                    |   |- Gold Pickaxe             :     : 25% :
+                    |   |- Gold Axe                 :     : 25% :
+                    |   |- Gold Hoe                 :     : 25% :
+                    |   |- Gold Shovel              :     : 25% :
+                    |- Diamond [Tool]               : 5%  :     :
+                    |   |- Diamond Pickaxe          :     : 25% :
+                    |   |- Diamond Axe              :     : 25% :
+                    |   |- Diamond Hoe              :     : 25% :
+                    |   |- Diamond Shovel           :     : 25% :
+                    |- Obsidian Block               : 2%  :     :
+
+
+                    Industrial Crate:
+                    =============================================
+                    |- Chicken                      : 25% :     :
+                    |- Coal                         : 35% :     :
+                    |   |- x1                       :     : 50% :
+                    |   |- x3                       :     : 30% :
+                    |   |- x9                       :     : 15% :
+                    |   |- x18                      :     : 5%  :
+                    |- Iron Ingot                   : 20% :     :
+                    |   |- x1                       :     : 50% :
+                    |   |- x3                       :     : 30% :
+                    |   |- x9                       :     : 15% :
+                    |   |- x18                      :     : 5%  :
+                    |- Gold Ingot                   : 10% :     :
+                    |   |- x1                       :     : 50% :
+                    |   |- x3                       :     : 30% :
+                    |   |- x9                       :     : 15% :
+                    |   |- x18                      :     : 5%  :
+                    |- Diamond Ingot                : 7%  :     :
+                    |   |- x1                       :     : 50% :
+                    |   |- x3                       :     : 30% :
+                    |   |- x9                       :     : 15% :
+                    |   |- x18                      :     : 5%  :
+                    |- Ghast Tear                   : 3%  :     :
+
+
+                    Precious Crate:
+                    =============================================
+                    |- Chicken                      : 25% :     :
+                    |- Lapis Lazuili                : 35% :     :
+                    |   |- x1                       :     : 50% :
+                    |   |- x3                       :     : 30% :
+                    |   |- x9                       :     : 15% :
+                    |   |- x18                      :     : 5%  :
+                    |- Ender Pearl                  : 3%  :     :
+
